@@ -1,5 +1,5 @@
 
-                    Placement Poral - FLIPZON
+                            Placement Portal - FLIPZON
 
 
 ## Topics Covered
