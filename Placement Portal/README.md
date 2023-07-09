@@ -1,11 +1,6 @@
-# Advanced Programming [AP | CSE 201] 
-                    Assignment 2 - FLIPZON
 
-Name: **Harshit Pal**
+                    Placement Poral - FLIPZON
 
-Roll No.: **2021255**
-
----
 
 ## Topics Covered
 
